@@ -1,8 +1,10 @@
-import Content from './components/Content';
+import Content from "./components/Content";
 
 function App() {
   return (
-    <Content/>
+    <>
+      <Content/>
+    </>
   );
 }
 
