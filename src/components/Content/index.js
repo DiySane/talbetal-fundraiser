@@ -3,6 +3,7 @@ import "./styles.css";
 const Content = () => {
   return (
     <div class="background">
+      
 {/* <iframe
   src="https://forms.fillout.com/t/e3231b5msWus"
   width="100%"
@@ -19,7 +20,7 @@ const Content = () => {
           title="YouTube video player"
           frameborder="0"
           allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
-          allowfullscreen
+          allowfullscreen="true"
         ></iframe>
         <div class="space"></div>
         <div class="button-background">
